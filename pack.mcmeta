@@ -2,5 +2,12 @@
 	"pack": {
 		"pack_format": 8,
 		"description": "You will regret this..."
-	}
+	},
+	"language": {
+    "ca_sp": {
+      "name": "Can't Speak",
+      "region": "Like A Normal Person",
+      "bidirectional": false
+    }
+  }
 }
